@@ -5,3 +5,6 @@ It's a nice day.
 It might be rainy tomorrow.
 
 It might be cold the day after tomorrow.
+
+In the following one month, you should expect a chilly weather.
+
